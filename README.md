@@ -40,6 +40,9 @@ This repo contains a basic boilerplate application which includes api and databa
 ### Database Design
 ![dreamTeam schema](https://github.com/user-attachments/assets/3963ffcf-37f8-4193-8267-07376097bec0)
 
+### API Documentation
+[click to view]([https://link-url-here.org](https://brawny-laced-plot.glitch.me/docs/))
+
 ## Getting Started
 
 Before you begin, ensure you have the following installed on your machine:
