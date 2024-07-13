@@ -2,7 +2,7 @@
 
 ## Overview
 
-[Description]
+### [Description]
 This repo contains a basic boilerplate application which includes api and database design for the various features: 
 - Auth,  
 - Organization,
@@ -34,6 +34,13 @@ This repo contains a basic boilerplate application which includes api and databa
 
 - Node.js
 - Express
+
+## Links
+### database design design
+![db](https://github.com/user-attachments/assets/41632e95-60db-45e7-a844-453bc3bea885)
+
+### api design and schema
+[api doc](https://brawny-laced-plot.glitch.me/docs/)
 
 ## Getting Started
 
