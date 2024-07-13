@@ -2,7 +2,7 @@
 
 ## Overview
 
-[Description]
+### [Description]
 This repo contains a basic boilerplate application which includes api and database design for the various features: 
 - Auth,  
 - Organization,
@@ -34,6 +34,11 @@ This repo contains a basic boilerplate application which includes api and databa
 
 - Node.js
 - Express
+
+
+## links
+### Database Design
+![dreamTeam schema](https://github.com/user-attachments/assets/3963ffcf-37f8-4193-8267-07376097bec0)
 
 ## Getting Started
 
