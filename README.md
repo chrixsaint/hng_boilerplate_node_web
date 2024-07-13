@@ -3,33 +3,37 @@
 ## Overview
 
 [Description]
+This repo contains a basic boilerplate application which includes api and database design for the various features: 
+- Auth,  
+- Organization,
+- User,
+- Blog,
+- Payment.
 
 ## Folder Structure
 
 ```
 |--- src
 |    |--- controllers
-|    |--- database
-|    |--- interfaces
-|    |--- middlewares
-|    |--- routes
+|    |--- api
 |    |--- services
 |    |--- utils
-|    |--- server.ts
+|    |--- server.js
+|    |--- validation
+|    |--- routes
+|--- .swagger-codegen-ignore
+|--- .swagger-codegen
 |--- .env
-|--- app.ts
+|--- index.js
 |--- .gitignore
 |--- package.json
-|--- tsconfig.json
+|--- README.md
 ```
 
 ## Dependencies (Dev)
 
 - Node.js
-- TypeScript
 - Express
-- ts-node-dev
-- [Other dependencies]
 
 ## Getting Started
 
