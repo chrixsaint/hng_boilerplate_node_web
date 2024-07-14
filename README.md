@@ -42,7 +42,7 @@ This repo contains a basic boilerplate application which includes api and databa
 ![dreamTeam schema](https://github.com/user-attachments/assets/3963ffcf-37f8-4193-8267-07376097bec0)
 
 ### API Documentation
-[click to view](https://brawny-laced-plot.glitch.me/docs/)
+[click to view](https://hng-task-3-rosy.vercel.app/docs/)
 
 
 
